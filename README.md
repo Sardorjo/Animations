@@ -1,2 +1,2 @@
-# Html-css-drawing
-This repository is created for drawing in html-css!
+# Animations
+This repository is created for create animation in html-css!
